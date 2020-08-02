@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+
+  <Ad>
+    <ImageUrl>img/ncell-Utsav360-ad.gif</ImageUrl>
+    <NavigateUrl>https://coderoad.ru/1588030/работа-с-Adrotator-в-asp-net</NavigateUrl>
+    <AlternateText>How make ad?</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>Product1</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/RRD-Banner.gif</ImageUrl>
+    <NavigateUrl>https://www.livelib.ru/</NavigateUrl>
+    <AlternateText>What are you reading?</AlternateText>
+    <Impressions>75</Impressions>
+    <Keyword>Product2</Keyword>
+  </Ad>
+
+</Advertisements>

@@ -1,0 +1,186 @@
+﻿body {
+    background-image: url('img/coffee-karandashi-lineyki-73fd1f3.jpg');
+    background-repeat: repeat;
+}
+.sendName {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: whitesmoke;
+    box-shadow: 0 0 10px 5px;
+}
+
+.otstupTop {
+    margin-top:40px;
+}
+
+.sendName1 {
+    margin-left: -20px;
+}
+.layerSend {
+    display: inline-flex;
+}
+
+.layerSend1 {
+    display: inline-flex;
+    vertical-align: central;
+}
+.sender {
+    background-color: rgba(179, 255, 127, 0.41);
+    text-align: center;
+}
+.common {
+    margin-bottom:-9px;
+}
+.common1 {
+    margin-bottom: -19px;
+}
+.groupCallendar {
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: auto;
+    flex-wrap: wrap;
+}
+.ad {
+    margin: 0 auto 0 4px;
+    text-align:center;
+    height: 284px;
+    width:1482px;
+}
+
+.mesList {
+    display: flex;
+    justify-content:center;
+}
+.mesListm p {
+        line-height: 80px; /* устанавливаем высоту строки в соответствии с высотой блока */
+        margin: 0; /* убираем внешние отступы, если они есть */
+        text-align: center; /* выравниваем текст по центре по горизонтали */
+        padding: 0; /* убираем внутренние отступы, если они есть */
+}
+.checkbox{
+    display:flex;
+    justify-content:space-between;
+    margin: 5% 20% 0 20%;
+}
+    .checkbox div:nth-child(2n+1){
+        background-color: grey;
+    }
+        .checkbox div:nth-child(2n+1) span {
+            color: white;
+        }
+
+.downList{
+    background-color:coral;
+    display:flex;
+    justify-content:flex-end;
+}
+.downList1 {
+    margin: 5px;
+}
+.Upload1{
+    display:flex;
+    justify-content:center;
+}
+.Upload {
+    margin:5px;
+}
+.UploadText{
+    text-align:center;
+    font-size:14px;
+    margin-top:10px;
+}
+.imgpalka{
+    margin: 10px 20% 30px 20%;
+}
+.imageTrump{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.imageTrump1 {
+    display:inline-block;
+    vertical-align: middle;
+    text-align:center;
+    font-size:24px;
+}
+.imagemap{
+    display:flex;
+    justify-content:center;
+}
+.ilon {
+    margin-top: 10px;
+    font-size: 16px;
+    text-align: right;
+    font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+}
+.LinkBut{
+    margin-left:120px;
+    text-align:center;
+}
+.myList{
+    background-color:darkslategrey;
+    padding: 10px;
+    margin-top: 40px;
+}
+.KnopkaZapuslRakety {
+    display:flex;
+    flex-direction:row-reverse;
+}
+.style1{
+    width:100%;
+    border: 10px double green;
+}
+.style2{
+    font-size:25px;
+    font-family:'Times New Roman';
+    color: green;
+}
+.style3 {
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    color: darkred;
+}
+.style4 {
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    color: darkred;
+}
+.style5 {
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    color: darkred;
+}
+.wizard{
+    display: flex;
+    justify-content:center;
+}
+.wiz {
+   display: flex;
+   text-align:center; 
+   justify-content:center;
+   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+   font-size: 25px;
+   background-color:blanchedalmond;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+.cop {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 10px;
+}
+.cop1 {
+    text-align:center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: 8px;
+}
+.copMain {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
